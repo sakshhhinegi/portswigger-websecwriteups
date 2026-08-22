@@ -1,4 +1,4 @@
-## Metadata
+## About the Lab
 
 **Difficulty:** Apprentice
 
